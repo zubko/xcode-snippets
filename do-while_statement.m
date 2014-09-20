@@ -1,5 +1,5 @@
 // Do-While Statement
-// 
+// Execute code while a condition is true.
 //
 // IDECodeSnippetCompletionPrefix: dowhile
 // IDECodeSnippetCompletionScopes: [CodeBlock]
