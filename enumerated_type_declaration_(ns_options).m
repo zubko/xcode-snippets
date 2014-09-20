@@ -1,12 +1,12 @@
 // Enumerated Type Declaration (NS_OPTIONS)
 // Declare a new enumerated type with combinable bitmask values.
 //
-// IDECodeSnippetCompletionPrefix: nsoptions
-// IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 247A1538-3248-42C0-94DC-4332862B6625
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
-// IDECodeSnippetVersion: 1
-typedef NS_OPTIONS(NSUInteger, <#MyEnum#>) {
+// IDECodeSnippetCompletionScopes: [TopLevel]
+// IDECodeSnippetIdentifier: 9C394BE8-139D-4CF0-BC95-2CC14FA9003A
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 0
+typedef NS_OPTIONS(NSInteger, <#MyEnum#>) {
     <#MyEnumValueA#> = 1 << 0,
     <#MyEnumValueB#> = 1 << 1,
     <#MyEnumValueC#> = 1 << 2,
