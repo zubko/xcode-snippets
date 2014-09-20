@@ -1,5 +1,5 @@
 // While Statement
-// 
+// Execute code while a condition is true.
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 6D68EF7C-72AA-4C2B-8AF6-B2CE37C1058B
