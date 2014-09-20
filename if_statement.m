@@ -1,11 +1,11 @@
 // If Statement
-// Execute code only when a certain condition is true.
+// 
 //
-// IDECodeSnippetCompletionPrefix: if
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: D70E6D11-0297-4BAB-88AA-86D5D5CBBC5D
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetIdentifier: A07AB52C-779F-4C4C-AD3A-417650DFCE15
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 0
 if (<#condition#>) {
     <#statements#>
 }
