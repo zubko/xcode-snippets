@@ -1,11 +1,11 @@
 // Objective-C Category Implementation
 // Implementation for an Objective-C category.
 //
-// IDECodeSnippetCompletionPrefix: @implementation-category
 // IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: F5C83E8B-21F2-4269-BF2B-15F9AFAA3848
+// IDECodeSnippetIdentifier: 12290EE9-8399-44F6-BBAE-B47A3BA6547D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 0
 @implementation <#class#> (<#category name#>)
 
 <#methods#>
