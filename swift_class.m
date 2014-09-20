@@ -1,5 +1,5 @@
 // Swift Class
-// 
+// Define a Swift class.
 //
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: B2D00A64-DEAF-4FC5-A2F7-9F438CB28501
