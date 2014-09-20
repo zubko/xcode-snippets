@@ -13,5 +13,5 @@
         Shared<#name#> = <#initializer#>;
     });
     
-    return _shared<#name#>;
+    return Shared<#name#>;
 }
