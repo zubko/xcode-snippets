@@ -1,5 +1,5 @@
 // Swift Subclass
-// 
+// Define a Swift subclass.
 //
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: 50A5F0A2-170D-4A81-AC0E-E05FA2C08ACB
