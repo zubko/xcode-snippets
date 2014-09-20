@@ -1,11 +1,11 @@
 // Swift Subclass
-// Define a Swift subclass.
+// 
 //
-// IDECodeSnippetCompletionPrefix: class
-// IDECodeSnippetCompletionScopes: [ClassImplementation,TopLevel]
-// IDECodeSnippetIdentifier: 3F37BF45-A98B-41E1-9A9D-4F725AAB77AD
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetCompletionScopes: [TopLevel]
+// IDECodeSnippetIdentifier: 50A5F0A2-170D-4A81-AC0E-E05FA2C08ACB
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 0
 class <#name#>: <#super class#> {
     <#properties and methods#>
 }
