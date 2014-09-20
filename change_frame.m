@@ -1,4 +1,4 @@
-// Change Frame
+// Change View Frame
 // 
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
