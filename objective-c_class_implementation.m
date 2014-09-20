@@ -1,11 +1,11 @@
 // Objective-C Class Implementation
 // Implementation for an Objective-C class.
 //
-// IDECodeSnippetCompletionPrefix: @implementation
 // IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: 7FA1A6B1-CB87-458C-891A-A742AE0A371D
+// IDECodeSnippetIdentifier: 5D9A61C6-2D9E-44D5-A36F-95992CE3C275
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 0
 @implementation <#class#>
 
 <#methods#>
