@@ -8,6 +8,6 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 static dispatch_once_t onceToken;
-    dispatch_once(&onceToken, ^{
-        <#code to be executed once#>
-    });
+dispatch_once(&onceToken, ^{
+    <#code to be executed once#>
+});
