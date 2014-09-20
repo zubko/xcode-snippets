@@ -1,11 +1,11 @@
 // Objective-C Class Extension
 // Define an Objective-C class extension.
 //
-// IDECodeSnippetCompletionPrefix: @interface-extension
 // IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: DE1BFE54-6A56-4424-9DDC-C4ACBBC649B2
+// IDECodeSnippetIdentifier: 73812CD4-7EE5-421C-8838-A54BF9D3B29D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 0
 @interface <#class name#> ()
 
 @end
