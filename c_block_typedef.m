@@ -1,9 +1,9 @@
-// C Block typedef
-// Define a block as a type.
+// C Block Typedef
+// 
 //
-// IDECodeSnippetCompletionPrefix: typedefBlock
-// IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: C1952C54-2451-4095-858E-17BA5721F630
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetCompletionScopes: [CodeBlock]
+// IDECodeSnippetIdentifier: 1021F078-2783-46CF-88E0-745B447F3E65
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 0
 typedef <#returnType#>(^<#name#>)(<#arguments#>);
