@@ -10,7 +10,7 @@
     static <#class#> *Shared<#name#> = nil;
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
-        _shared<#name#> = <#initializer#>;
+        Shared<#name#> = <#initializer#>;
     });
     
     return _shared<#name#>;
