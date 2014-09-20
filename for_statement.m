@@ -1,11 +1,11 @@
 // For Statement
 // Execute code for each value in a sequence of values.
 //
-// IDECodeSnippetCompletionPrefix: for
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 167AF381-F451-4535-900D-D2B65C99DB1F
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetIdentifier: F28FDCCF-9FA9-4DD2-9FAC-4625E1091D03
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 0
 for (<#initialization#>; <#condition#>; <#increment#>) {
     <#statements#>
 }
