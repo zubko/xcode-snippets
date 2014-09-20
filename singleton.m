@@ -1,4 +1,4 @@
-// Singleton
+// Shared Singleton
 // 
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
