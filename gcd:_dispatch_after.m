@@ -1,5 +1,5 @@
 // GCD: Dispatch After
-// 
+// Execute a block after a set amount of time.
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 67A7AEC9-4486-4C00-8A06-40F12A91A7CF
