@@ -1,5 +1,5 @@
 // If Statement
-// 
+// Execute code only when a certain condition is true.
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: A07AB52C-779F-4C4C-AD3A-417650DFCE15
