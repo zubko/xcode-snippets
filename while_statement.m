@@ -1,11 +1,12 @@
 // While Statement
-// Execute code while a condition is true.
+// 
 //
-// IDECodeSnippetCompletionPrefix: while
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 87234884-0BA0-49C3-8405-4C6E6BB6251D
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetIdentifier: 6D68EF7C-72AA-4C2B-8AF6-B2CE37C1058B
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 0
 while (<#condition#>) {
-    <#statements#>
+        <#statements#>
+    }
 }
