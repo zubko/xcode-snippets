@@ -1,5 +1,5 @@
 // Objective-C Protocol Definition
-// 
+// Define an Objective-C protocol.
 //
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: B668A584-70AD-4874-B0D1-2AE32B305E0D
