@@ -1,11 +1,11 @@
 // Struct Declaration
-// Declare a new structure type.
+// 
 //
-// IDECodeSnippetCompletionPrefix: structdef
-// IDECodeSnippetCompletionScopes: [CodeBlock,TopLevel]
-// IDECodeSnippetIdentifier: 41F64F7F-EFC8-4CDE-B129-EBC903B10F3F
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetCompletionScopes: [TopLevel]
+// IDECodeSnippetIdentifier: E2598384-3452-4131-B245-9CDB1A8315DB
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 0
 struct <#struct name#> {
-  <#struct fields#>
+    <#struct fields#>
 };
