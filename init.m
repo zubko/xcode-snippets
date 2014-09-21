@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-self = self.init;
+self = [self init];
 RETURN_VALUE_IF(self == nil, nil);
 
 <#init here#>
