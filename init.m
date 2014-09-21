@@ -1,4 +1,4 @@
-// init
+// Objective-C class init
 // 
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
