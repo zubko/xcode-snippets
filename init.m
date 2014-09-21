@@ -9,6 +9,6 @@
 self = self.init;
 RETURN_VALUE_IF(self == nil, nil);
 
-_topic = topic;
+<#
 
 return self;
