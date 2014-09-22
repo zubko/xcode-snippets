@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 5D9A61C6-2D9E-44D5-A36F-95992CE3C275
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 @implementation <#class#>
 
 <#methods#>
