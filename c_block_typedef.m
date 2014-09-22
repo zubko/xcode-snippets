@@ -6,5 +6,5 @@
 // IDECodeSnippetIdentifier: 1021F078-2783-46CF-88E0-745B447F3E65
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 typedef <#returnType#>(^<#name#>)(<#arguments#>);
