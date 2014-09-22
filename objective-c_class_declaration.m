@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: EE107D99-F82F-47C4-8B4D-B797B3FB1308
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 @interface <#class name#> : <#superclass#>
 
 @end
