@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-static dispatch_once_t onceToken;
-dispatch_once(&onceToken, ^{
+static dispatch_once_t OnceToken;
+dispatch_once(&OnceToken, ^{
     <#code to be executed once#>
 });
