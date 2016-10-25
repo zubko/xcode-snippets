@@ -9,12 +9,11 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (instancetype)init
-{
+	<string>- (instancetype)init {
     self = [super init];
     RETURN_NIL_IF(!self);
 
-    
+    &lt;#init#&gt;
     
     return self;
 }
@@ -28,6 +27,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

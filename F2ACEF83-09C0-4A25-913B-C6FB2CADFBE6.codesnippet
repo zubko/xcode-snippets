@@ -3,24 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>init body</string>
+	<string>nc notification center</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>    self = [super init];
-    RETURN_NIL_IF(!self);
-    
-    &lt;#init#&gt;
-    
-    return self;</string>
+	<string>NSNotificationCenter *nc = [NSNotificationCenter defaultCenter];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>88CB5E8D-A84D-4F18-8B18-B697E8D3F00A</string>
+	<string>F2ACEF83-09C0-4A25-913B-C6FB2CADFBE6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Init Body</string>
+	<string>Notification Center</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
